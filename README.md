@@ -1,0 +1,2 @@
+# ads-redirector
+redirect server
